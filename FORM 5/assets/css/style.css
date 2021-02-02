@@ -1,0 +1,83 @@
+body{
+    background-image: url(../img/bg-01.webp);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.main_div{
+    text-align: center !important;
+    width:500px;
+}
+
+.center_margin_top{
+    margin-top: 6%!important;
+}
+
+#list{
+    list-style: none;
+    color:white;
+}
+
+a{
+    color:white !important;
+    font-size: 20px;
+}
+
+li{
+    font-size:20px;
+}
+
+h2,h6, h4, p {
+    color:white;
+}
+
+h5{
+    font-weight: 100 !important;
+    color: white;
+}
+
+p, h4{
+    font-weight: 300 !important;
+}
+
+textarea{
+    line-height: 40px !important;
+}
+
+.btn{
+    background-color: rgb(69, 188, 243) !important;
+    color:white;
+    border-radius: 0 !important;
+    width:120px !important;
+}
+
+#firstName, #lastName, #email{
+    height: 50px !important;
+}
+
+.left_side{
+    text-align: left !important;
+}
+
+.right_side{
+    text-align: right !important;
+}
+
+.center{
+    text-align: center !important;
+}
+
+.fas{
+    color:white !important;
+    font-size: 25px !important;
+    padding:0 !important;
+}
+
+.bottomitem_margin_top{
+    margin-top:20% !important
+}
+
+#bottom_item{
+    padding-top: 10px;
+    border-top: 1px solid whitesmoke;
+} 
